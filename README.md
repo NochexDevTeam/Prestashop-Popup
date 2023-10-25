@@ -1,6 +1,6 @@
 Nochex Popup API Module for Prestashop 8
 ============
-Tested up to Prestashop 8.0.4
+Tested up to Prestashop 8.1.1
 
 Installation
 ============
